@@ -16,8 +16,7 @@ start "Options ETL Worker" cmd /k "python etl2.py"
 
 :: 3. Start Dashboard in a new window
 echo 3. Launching Streamlit Dashboard...
-start "Market Dashboard" cmd /k "python -m streamlit run dashboard2.py"
-
+start "Market Dashboard 3" cmd /k "python -m streamlit run dashboard3.py"
 echo.
 echo ==================================================
 echo   SYSTEM IS RUNNING
