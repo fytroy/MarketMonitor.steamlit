@@ -1,0 +1,20 @@
+Python cache
+
+pycache/
+*.pyc
+
+Virtual environments
+
+venv/
+env/
+
+IDE settings
+
+.vscode/
+.idea/
+
+Local data (Optional: keep this if you want to upload your CSVs/Excel, but usually DBs are ignored)
+
+*.db
+*.sqlite
+*.log
